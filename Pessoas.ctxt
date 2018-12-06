@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Pessoas
+comment1.params=nome\ idade\ estadoCivil\ CPF\ RG
+comment1.target=Pessoas(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ getRG()
+comment11.params=rg
+comment11.target=void\ setRG(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=int\ getIdade()
+comment5.params=idade
+comment5.target=void\ setIdade(int)
+comment6.params=
+comment6.target=java.lang.String\ getEstadoCivil()
+comment7.params=estC
+comment7.target=void\ setEstadoCivil(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ GetCPF()
+comment9.params=cpf
+comment9.target=void\ setCPF(java.lang.String)
+numComments=12

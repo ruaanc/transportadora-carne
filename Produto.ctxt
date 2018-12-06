@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Produto
+comment1.params=
+comment1.target=int\ getCodPeca()
+comment10.params=nome
+comment10.target=void\ setNome(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ getQualidade()
+comment12.params=qualidade
+comment12.target=void\ setQualidade(java.lang.String)
+comment2.params=codPeca
+comment2.target=void\ setCodPeca(int)
+comment3.params=
+comment3.target=double\ getPesoKG()
+comment4.params=PesoKG
+comment4.target=void\ setPesoKG(double)
+comment5.params=
+comment5.target=java.lang.String\ getDescricao()
+comment6.params=descricao
+comment6.target=void\ setDescricao(java.lang.String)
+comment7.params=tipo
+comment7.target=void\ setTipo(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getTipo()
+comment9.params=
+comment9.target=java.lang.String\ getNome()
+numComments=13

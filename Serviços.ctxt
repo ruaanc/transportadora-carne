@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Servi\u00E7os
+comment1.params=contador
+comment1.target=void\ setContador(double)
+comment2.params=
+comment2.target=double\ getContador()
+comment3.params=linha
+comment3.target=void\ addLinha(LinhaServi\u00E7o)
+comment4.params=
+comment4.target=java.util.ArrayList\ getLinhas()
+comment5.params=id
+comment5.target=void\ setId(int)
+comment6.params=
+comment6.target=int\ getId()
+comment7.params=data
+comment7.target=void\ setData(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getData()
+comment9.params=
+comment9.target=double\ getFaturamentoGeral()
+numComments=10

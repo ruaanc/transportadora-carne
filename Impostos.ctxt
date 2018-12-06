@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Impostos
+comment1.params=descricao
+comment1.target=Impostos(java.lang.String)
+comment2.params=descricao
+comment2.target=void\ setDescricao(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDescriscao()
+numComments=4

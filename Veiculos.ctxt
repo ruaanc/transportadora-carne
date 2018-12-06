@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Veiculos
+comment1.params=placa\ capacidadeKG\ chassi\ modelo\ ano
+comment1.target=Veiculos(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ getAno()
+comment11.params=ano
+comment11.target=void\ setAno(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getPlaca()
+comment3.params=placa
+comment3.target=void\ setPlaca(java.lang.String)
+comment4.params=
+comment4.target=int\ getCapacidadeKG()
+comment5.params=capacidade
+comment5.target=void\ setCapacidadeKG(int)
+comment6.params=
+comment6.target=java.lang.String\ getChassi()
+comment7.params=chassi
+comment7.target=void\ setChassi(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getModelo()
+comment9.params=modelo
+comment9.target=void\ setModelo(java.lang.String)
+numComments=12
